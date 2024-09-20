@@ -15,4 +15,5 @@
   <img align="center" alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
+Estagiária na área de T.I na NSC Comunicações.
 Atualmente cursando graduação em Sistemas de Informação e tecnólogo em Análise e Desenvolvimento de Sistemas. Estou me dedicando à aprendizagem autônoma de diversas linguagens de programação.
