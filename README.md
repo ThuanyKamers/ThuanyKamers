@@ -1,8 +1,3 @@
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-
-
 ### Olá! Eu sou a Thuany 😊
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thuany.pk/)
@@ -23,3 +18,5 @@
 
 Estagiária na área de T.I na NSC Comunicações.
 Atualmente cursando graduação em Sistemas de Informação e tecnólogo em Análise e Desenvolvimento de Sistemas. Estou me dedicando à aprendizagem autônoma de diversas linguagens de programação.
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
