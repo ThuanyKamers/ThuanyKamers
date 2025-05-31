@@ -21,3 +21,9 @@ Estagiária na área de T.I na NSC Comunicações.
 Atualmente cursando graduação em Sistemas de Informação e tecnólogo em Análise e Desenvolvimento de Sistemas. Estou me dedicando à aprendizagem autônoma de diversas linguagens de programação.
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<div align = center>
+
+<img src="https://raw.githubusercontent.com/ThuanyKamers/ThuanyKamers/output/snake.svg" alt="Snake animation" />
+
+</div>
