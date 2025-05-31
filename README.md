@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ThuanyKamers/ThuanyKamers/blob/main/images/capa.png?raw=true" alt="Capa GitHub">
+  <img src="https://github.com/ThuanyKamers/ThuanyKamers/blob/main/images/capalinkedin.png?raw=true" alt="Capa GitHub">
 </p>
 
 ### Hi! I'm Thuany! 😊
