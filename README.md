@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ThuanyKamers/ThuanyKamers/blob/main/images/capa.png?raw=true" alt="Capa GitHub">
+</p>
+
 ### Hi! I'm Thuany! 😊
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thuany.pk/)
