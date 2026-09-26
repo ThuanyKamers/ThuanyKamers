@@ -4,8 +4,11 @@
 
 ### Hi! I'm Thuany! 😊
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thuany.pk/)
+🌐 **Portfolio:** https://thuanykamers.github.io/portfolio/
+
 [![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/thuanypaulakamers/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anny.devv/)
+[![Email](https://img.shields.io/badge/Email-thuanykamers%40hotmail.com-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:thuanykamers@hotmail.com)
 
 
 ## Tech Stack
