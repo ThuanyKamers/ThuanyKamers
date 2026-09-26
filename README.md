@@ -26,11 +26,3 @@
 </div><br/>
 
 Full-stack developer with a Bachelor's degree in Information Systems. I build web applications with PHP, React and TypeScript, and I'm always learning new technologies.
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<div align = center>
-
-<img src="https://raw.githubusercontent.com/ThuanyKamers/ThuanyKamers/output/snake.svg" alt="Snake animation" />
-
-</div>
