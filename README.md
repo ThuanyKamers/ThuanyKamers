@@ -25,8 +25,7 @@
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 </div><br/>
 
-Software developer intern.
-Currently pursuing a Bachelor's degree in Information Systems and an associate's degree in Systems Analysis and Development. I'm actively dedicated to self-learning various programming languages.
+Full-stack developer with a Bachelor's degree in Information Systems. I build web applications with PHP, React and TypeScript, and I'm always learning new technologies.
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
