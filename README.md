@@ -30,6 +30,5 @@ Junior developer with a Bachelor's degree in Information Systems. I build web ap
 
 ## Currently
 
-- Studying cybersecurity (IBM course: Cybersecurity for Beginners)
-- Looking for an IT role in Germany (development or IT support)
-- Working in English and Portuguese
+- Studying cybersecurity
+- Looking for an IT role in Europe
