@@ -15,33 +15,33 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anny.devv/)
 [![Email](https://img.shields.io/badge/Email-thuanykamers%40hotmail.com-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:thuanykamers@hotmail.com)
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-### Frontend
+<h3 align="center">Frontend</h3>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
 </div>
 
-### Backend
+<h3 align="center">Backend</h3>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=php,python,nodejs,express" />
 </div>
 
-### Mobile
+<h3 align="center">Mobile</h3>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=dart,flutter,lua" />
 </div>
 
-### Banco de Dados
+<h3 align="center">Banco de Dados</h3>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </div>
 
-### Ferramentas & DevOps
+<h3 align="center">Ferramentas & DevOps</h3>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,vite,windows,linux" />
