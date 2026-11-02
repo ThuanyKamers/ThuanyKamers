@@ -9,12 +9,6 @@
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThuanyKamers&layout=compact&theme=dracula"/>
 </div>
 
-🌐 **Portfolio:** https://thuanykamers.github.io/portfolio/
-
-[![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/thuanypaulakamers/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anny.devv/)
-[![Email](https://img.shields.io/badge/Email-thuanykamers%40hotmail.com-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:thuanykamers@hotmail.com)
-
 ## Tech Stack
 
 ### Frontend
@@ -35,12 +29,17 @@
 
 ### Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vite,windows,linux" />
-<br/>
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=for-the-badge" height="48" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?logo=gsap&logoColor=fff&style=for-the-badge" height="48" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vite,windows,linux" /> <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/GSAP-88CE02?logo=gsap&logoColor=fff&style=for-the-badge" height="48" />
 
 ## Currently
 
 - Studying cybersecurity
 - Looking for an IT role in Europe
+
+## Contact
+
+**Portfolio:** https://thuanykamers.github.io/portfolio/
+
+<a href="https://www.linkedin.com/in/thuanypaulakamers/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.instagram.com/anny.devv/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="mailto:thuanykamers@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
