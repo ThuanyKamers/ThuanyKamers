@@ -2,6 +2,11 @@
   <img src="https://github.com/ThuanyKamers/ThuanyKamers/blob/main/images/capalinkedinnew.png?raw=true" alt="Capa GitHub">
 </p>
 
+<div align="center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThuanyKamers&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThuanyKamers&layout=compact&theme=dracula"/>
+</div>
+
 ### Hi! I'm Thuany! 😊
 
 🌐 **Portfolio:** https://thuanykamers.github.io/portfolio/
