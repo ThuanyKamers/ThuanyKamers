@@ -42,4 +42,4 @@
 
 <a href="https://www.linkedin.com/in/thuanypaulakamers/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://www.instagram.com/anny.devv/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="mailto:thuanykamers@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="mailto:thuanykamers@hotmail.com"><img src="https://img.shields.io/badge/-%20-0078D4?logo=microsoftoutlook&logoColor=white&style=for-the-badge" height="48" /></a>
