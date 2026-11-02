@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1&color=ffff00&random=false&width=435&height=40&lines=Hi!+I%27m+Thuany!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://github.com/ThuanyKamers/ThuanyKamers/blob/main/images/capalinkedinnew.png?raw=true" alt="Capa GitHub">
+  <img src="https://github.com/ThuanyKamers/ThuanyKamers/blob/main/images/in.png?raw=true" alt="Capa GitHub">
 </p>
 
 <div align="center">
