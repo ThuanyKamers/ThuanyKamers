@@ -29,11 +29,11 @@
 
 <img src="https://skillicons.dev/icons?i=dart,flutter,lua" />
 
-### Banco de Dados
+### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-### Ferramentas & DevOps
+### Tools & DevOps
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vite,windows,linux" />
 <br/>
