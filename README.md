@@ -40,8 +40,6 @@
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=for-the-badge" height="48" />
 <img src="https://img.shields.io/badge/GSAP-88CE02?logo=gsap&logoColor=fff&style=for-the-badge" height="48" />
 
-Junior developer with a Bachelor's degree in Information Systems. I build web applications with PHP, React and TypeScript.
-
 ## Currently
 
 - Studying cybersecurity
