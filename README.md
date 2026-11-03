@@ -13,61 +13,23 @@
 
 ### Frontend
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br/><sub>HTML5</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br/><sub>CSS3</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br/><sub>JavaScript</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48"/><br/><sub>TypeScript</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br/><sub>React</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br/><sub>Tailwind CSS</sub></td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" height="48" />
 
 ### Backend
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="48" height="48"/><br/><sub>PHP</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br/><sub>Python</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br/><sub>Node.js</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48" height="48"/><br/><sub>Express</sub></td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff&style=for-the-badge" height="48" />
 
 ### Mobile
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48"/><br/><sub>Dart</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48"/><br/><sub>Flutter</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=lua" width="48" height="48"/><br/><sub>Lua</sub></td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=for-the-badge" height="48" />
 
 ### Databases
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br/><sub>MySQL</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/><br/><sub>PostgreSQL</sub></td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" height="48" />
 
 ### Tools & DevOps
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br/><sub>Git</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br/><sub>GitHub</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/><br/><sub>Docker</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48"/><br/><sub>Vite</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=windows" width="48" height="48"/><br/><sub>Windows</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/><br/><sub>Linux</sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/-%20-FB7A24?logo=xampp&logoColor=fff&style=for-the-badge" width="48" height="48"/><br/><sub>XAMPP</sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/-%20-88CE02?logo=gsap&logoColor=fff&style=for-the-badge" width="48" height="48"/><br/><sub>GSAP</sub></td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=for-the-badge" height="48" /> <img src="https://img.shields.io/badge/GSAP-88CE02?logo=gsap&logoColor=fff&style=for-the-badge" height="48" />
 
 ## Currently
 
@@ -78,12 +40,6 @@
 
 **Portfolio:** https://thuanykamers.github.io/portfolio/
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/><br/><sub>LinkedIn</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"/><br/><sub>Instagram</sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/-%20-0078D4?logo=maildotru&logoColor=fff&style=for-the-badge" width="48" height="48"/><br/><sub>Email</sub></td>
-  </tr>
-</table>
-
-<div style="background:red;width:50px;height:50px;display:inline-block;"></div>div>TESTSTYLE
+<a href="https://www.linkedin.com/in/thuanypaulakamers/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" height="48" /></a>
+<a href="https://www.instagram.com/anny.devv/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" height="48" /></a>
+<a href="mailto:thuanykamers@hotmail.com"><img src="https://img.shields.io/badge/-%20-0078D4?logo=maildotru&logoColor=fff&style=for-the-badge" height="48" /></a>
