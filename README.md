@@ -13,7 +13,7 @@
 
 ### Frontend
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br/><sub>HTML5</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br/><sub>CSS3</sub></td>
@@ -26,7 +26,7 @@
 
 ### Backend
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=php" width="48" height="48"/><br/><sub>PHP</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br/><sub>Python</sub></td>
@@ -37,7 +37,7 @@
 
 ### Mobile
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48"/><br/><sub>Dart</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48"/><br/><sub>Flutter</sub></td>
@@ -47,7 +47,7 @@
 
 ### Databases
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br/><sub>MySQL</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/><br/><sub>PostgreSQL</sub></td>
@@ -56,7 +56,7 @@
 
 ### Tools & DevOps
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br/><sub>Git</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br/><sub>GitHub</sub></td>
@@ -78,10 +78,10 @@
 
 **Portfolio:** https://thuanykamers.github.io/portfolio/
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/><br/><sub>LinkedIn</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"/><br/><sub>Instagram</sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/-%20-0078D4?logo=maildotru&logoColor=white&style=for-the-badge" width="48" height="48"/><br/><sub>Email</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/-%20-0078D4?logo=maildotru&logoColor=fff&style=for-the-badge" width="48" height="48"/><br/><sub>Email</sub></td>
   </tr>
 </table>
