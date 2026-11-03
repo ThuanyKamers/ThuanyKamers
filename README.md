@@ -85,3 +85,5 @@
     <td align="center"><img src="https://img.shields.io/badge/-%20-0078D4?logo=maildotru&logoColor=fff&style=for-the-badge" width="48" height="48"/><br/><sub>Email</sub></td>
   </tr>
 </table>
+
+<div style="background:red;width:50px;height:50px;display:inline-block;"></div>div>TESTSTYLE
