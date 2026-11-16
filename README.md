@@ -31,6 +31,12 @@
 
 <img src="./images/stack-tools.svg" alt="Git, GitHub, Docker, Vite, Windows, Linux, XAMPP, GSAP" />
 
+## Cybersecurity
+
+[<img src="https://images.credly.com/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" alt="Cybersecurity Fundamentals - IBM SkillsBuild" width="140" />](https://www.credly.com/users/thuany-kamers)
+
+**Cybersecurity Fundamentals** | IBM SkillsBuild
+
 ## Currently
 
 - Studying cybersecurity
