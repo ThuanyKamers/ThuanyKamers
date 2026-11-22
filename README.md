@@ -31,6 +31,10 @@
 
 <img src="./images/stack-tools.svg" alt="Git, GitHub, Docker, Vite, Windows, Linux, XAMPP, GSAP" />
 
+### Enterprise & IT Systems
+
+![ServiceNow](https://img.shields.io/badge/ServiceNow-%23293E40.svg?style=flat&logo=servicenow&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-%23172B4D.svg?style=flat&logo=confluence&logoColor=white) ![SharePoint](https://img.shields.io/badge/SharePoint-%230078D4.svg?style=flat&logo=microsoftsharepoint&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=flat&logo=salesforce&logoColor=white) ![Google Admin](https://img.shields.io/badge/Google%20Admin-%234285F4.svg?style=flat&logo=google&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-%230078D4.svg?style=flat&logo=windows&logoColor=white) ![JD Edwards](https://img.shields.io/badge/JD%20Edwards-%23ED1C24.svg?style=flat&logoColor=white)
+
 ## Cybersecurity
 
 [<img src="https://images.credly.com/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" alt="Cybersecurity Fundamentals - IBM SkillsBuild" width="140" />](https://www.credly.com/users/thuany-kamers)
